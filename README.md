@@ -1,2 +1,2 @@
 # startupoftheyear
-Eerste landingspagina van Arjan
+https://bakkerarjan.github.io/startupoftheyear/
